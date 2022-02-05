@@ -8,7 +8,11 @@ Our goal is to build an automated decision tool that suggests the operations to 
 
 ## Table of content :
 1- Data sources exploration and Data integration
+</br>
 2- Data preparation and exploratory data analysis
+</br>
 3- Building and benchmarking Forecasting models
+</br>
 4- Decision making model
+</br>
 5- Making api’s and deploying the models
