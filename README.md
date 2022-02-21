@@ -11,8 +11,7 @@ Our goal is to build an automated decision tool that suggests the operations to 
 </br>
 2- Data preparation and exploratory data analysis
 </br>
-3- Building and benchmarking Forecasting models
+3- Building and benchmarking Forecasting models ( ARIMA, XGBOOST, LSTM )
 </br>
 4- Decision making model
 </br>
-5- Making api’s and deploying the models
